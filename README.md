@@ -6,7 +6,6 @@ I'm a software engineer, passionate about building applications and open source 
 ## 📫 How to reach me:
 
 - [Email](se.abel.abate@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/abel-abate/)
 - [Personal Website](https://portfolio-abelaba.vercel.app/)
 
 
